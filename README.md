@@ -1,10 +1,10 @@
-# 🍔 Kaloca Burger
+# Kaloca Burger
 
 Website institucional e cardápio digital da **Kaloca Burger**, hamburgueria de bairro localizada no Horto Florestal, em Belo Horizonte — MG.
 
 O projeto apresenta a casa, seus lanches, ambiente, localização e canais para pedido online ou pelo WhatsApp. A proposta visual combina referências de lanchonete de bairro, papel de embrulho, madeira e o vermelho característico da marca.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Página inicial com apresentação da hamburgueria, destaques, ambiente e localização.
 - Cardápio digital organizado por categorias.
@@ -15,7 +15,7 @@ O projeto apresenta a casa, seus lanches, ambiente, localização e canais para 
 - Carregamento condicional de fotos dos produtos: quando uma imagem ainda não existe, o card mantém um placeholder visual.
 - Navegação acessível, incluindo atalho para pular ao conteúdo e controles com atributos ARIA.
 
-## 🛠 Tecnologias
+## Tecnologias
 
 - HTML5
 - CSS3
@@ -24,7 +24,7 @@ O projeto apresenta a casa, seus lanches, ambiente, localização e canais para 
 
 O projeto não depende de frameworks, bibliotecas ou etapa de compilação.
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
 ```text
 Kaloca_Burger/
@@ -41,20 +41,20 @@ Kaloca_Burger/
 └── index.html                 # Página inicial
 ```
 
-## 🚀 Como executar
+## Como executar
 
 Como é um site estático, basta abrir o arquivo `index.html` em um navegador.
 
 Para uma experiência de desenvolvimento mais prática, abra a pasta do projeto em um editor que ofereça servidor local — por exemplo, a extensão **Live Server** do VS Code — e inicie uma prévia local.
 
-## 🖼️ Páginas
+## Páginas
 
 | Página | Descrição |
 | --- | --- |
 | `index.html` | Apresentação da Kaloca Burger, destaques, salão, endereço e formas de pedido. |
 | `cardapio.html` | Cardápio completo com filtros, busca e links para pedidos. |
 
-## 📸 Screenshots
+## Capturas de tela
 
 Adicione capturas de tela do projeto nesta seção quando houver uma versão publicada ou uma prévia local disponível.
 
@@ -63,7 +63,7 @@ Adicione capturas de tela do projeto nesta seção quando houver uma versão pub
 ![Cardápio](./assets/img/screenshot-cardapio.png)
 ```
 
-## 🔧 Personalização
+## Personalização
 
 - Atualize o conteúdo e os preços diretamente em `cardapio.html`.
 - Adicione fotos de itens na pasta `assets/img/cardapio/` e informe o caminho no atributo `data-foto` de cada card.
@@ -71,7 +71,7 @@ Adicione capturas de tela do projeto nesta seção quando houver uma versão pub
 - Os links de WhatsApp e pedido online estão presentes nas páginas HTML e podem ser substituídos conforme a necessidade.
 - O horário de atendimento é configurado no arquivo `js/script.js`.
 
-## 💡 Melhorias futuras
+## Melhorias futuras
 
 - [ ] Integrar o cardápio a uma API ou painel administrativo.
 - [ ] Adicionar carrinho de compras próprio.
@@ -80,7 +80,7 @@ Adicione capturas de tela do projeto nesta seção quando houver uma versão pub
 - [ ] Adicionar métricas de acesso e conversão de pedidos.
 - [ ] Publicar o site em uma plataforma de hospedagem.
 
-## 🤝 Contribuição
+## Contribuição
 
 1. Faça um fork deste repositório.
 2. Crie uma branch para sua alteração: `git checkout -b feature/minha-melhoria`.
@@ -88,7 +88,7 @@ Adicione capturas de tela do projeto nesta seção quando houver uma versão pub
 4. Envie a branch: `git push origin feature/minha-melhoria`.
 5. Abra um Pull Request.
 
-## 📄 Licença
+## Licença
 
 Este projeto ainda não possui uma licença definida. Antes de disponibilizá-lo publicamente, adicione um arquivo `LICENSE` adequado ao uso pretendido.
 
