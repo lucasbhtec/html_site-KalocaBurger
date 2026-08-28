@@ -5,6 +5,13 @@ Coloque aqui as fotos de cada item do cardápio. Não é preciso mexer no HTML:
 o site procura o arquivo sozinho e, se encontrar, substitui o placeholder de
 papel pela foto. Se o arquivo não existir, o placeholder continua no lugar.
 
+FOTOS JÁ INTEGRADAS
+-------------------
+As fotos reais disponíveis no pedido online foram salvas nesta pasta em WebP.
+Alguns sabores usam a mesma
+foto quando essa é a imagem fornecida pela própria loja. Não renomeie os
+arquivos já integrados: os respectivos cards já apontam para eles.
+
 COMO FUNCIONA
 -------------
 Cada card do cardapio.html tem um atributo data-foto apontando para um nome
